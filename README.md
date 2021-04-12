@@ -1,5 +1,5 @@
 
-<img title="" src="Figures/naack.PNG" alt="">
+<img title="" src="Figures/naacl-2021.PNG" alt="">
 
 ## Emotion Classification in a Resource Constrained Language Using Transformer-based Approach
 
