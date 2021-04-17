@@ -18,7 +18,7 @@ Although research on emotion classification has significantly progressed in high
 
 
 ## Ackonwlegement
-Without the dedication of Avishek das this work would not be possible. Thanks to [Prof. Dr. Mohammed Moshiul Hoque](https://www.researchgate.net/profile/Moshiul_Hoque) and [Dr. Iqbal H. Sarker](https://www.sites.google.com/site/iqbalsarkercse/) for their valuable guidance.
+Without the dedication of Avishek das this work would not be possible. Thanks to [Prof. Dr. Mohammed Moshiul Hoque](https://www.researchgate.net/profile/Moshiul_Hoque) and [Dr. Iqbal H. Sarker](https://www.sites.google.com/site/iqbalsarkercse/) sir for their valuable guidance.
 
 ## Note
 `If you find any anomaly or have any query/suggestion feel free to ping.`
