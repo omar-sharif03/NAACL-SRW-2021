@@ -14,7 +14,7 @@ Although research on emotion classification has significantly progressed in high
 
 - Develop a Bengali emotion corpus consisting of 6243 text documents with manual annotation to classify each text into one of six emotion classes: anger, disgust, fear, joy, sadness, surprise. 
 - Investigate the performance of various ML, DNN and transformer-based approaches on the corpus.
-- item Proposed a benchmark system to classify emotion in Bengali text with the experimental validation on the corpus.
+- Proposed a benchmark system to classify emotion in Bengali text with the experimental validation on the corpus.
 
 
 ## Ackonwlegement
