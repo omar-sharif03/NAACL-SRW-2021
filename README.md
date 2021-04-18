@@ -67,7 +67,7 @@ The analysis of results revealed that XLM-R is the best model to classify emotio
 
 
 ## Ackonwlegements
-We sincerely acknowledge the anonymous reviewers and pre-submission mentor for their insightful suggestions, which help improve the work. This work was supported by the Directorate of Research & Extension, CUET. Thanks to [Prof. Dr. Mohammed Moshiul Hoque](https://www.researchgate.net/profile/Moshiul_Hoque) and [Dr. Iqbal H. Sarker](https://www.sites.google.com/site/iqbalsarkercse/) sir for their valuable guidance.
+We sincerely acknowledge the anonymous reviewers and pre-submission mentor for their insightful suggestions, which help to improve the work. This work was supported by the Directorate of Research & Extension, CUET. Thanks to [Prof. Dr. Mohammed Moshiul Hoque](https://www.researchgate.net/profile/Moshiul_Hoque) and [Dr. Iqbal H. Sarker](https://www.sites.google.com/site/iqbalsarkercse/) sir for their valuable guidance.
 
 ## Note
 `If you find any anomaly or have any query/suggestion feel free to ping.`
