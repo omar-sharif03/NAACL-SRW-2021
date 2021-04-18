@@ -19,8 +19,21 @@ Although research on emotion classification has significantly progressed in high
 ## Dataset Analysis
 Table 1 represents the amount of data in each class according to the train-validation-test set.
 
+<img title="" src="Figures/train-val-test.PNG" alt="">
 
-## Ackonwlegement
+To get the useful insights, we investigated the train set. Statistics of the train set exhibited in table 2.
+
+<img title="" src="Figures/statistics.PNG" alt="">
+
+Figure 1 represents the number of texts vs the length of texts distribution for each class of the corpus.
+
+<img title="" src="Figures/length_plot.png" alt="">
+
+For quantitative analysis, the Jaccard similarity among the classes has been computed. We used 200 most frequent words from each emotion class, and the similarity values are reported in table 3.
+
+<img title="" src="Figures/jaccard.PNG" alt="">
+
+## Ackonwlegements
 Without the dedication of Avishek das this work would not be possible. Thanks to [Prof. Dr. Mohammed Moshiul Hoque](https://www.researchgate.net/profile/Moshiul_Hoque) and [Dr. Iqbal H. Sarker](https://www.sites.google.com/site/iqbalsarkercse/) sir for their valuable guidance.
 
 ## Note
