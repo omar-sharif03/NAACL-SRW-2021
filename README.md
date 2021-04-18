@@ -16,6 +16,9 @@ Although research on emotion classification has significantly progressed in high
 - Investigate the performance of various ML, DNN and transformer-based approaches on the corpus.
 - Proposed a benchmark system to classify emotion in Bengali text with the experimental validation on the corpus.
 
+## Dataset Analysis
+Table 1 represents the amount of data in each class according to the train-validation-test set.
+
 
 ## Ackonwlegement
 Without the dedication of Avishek das this work would not be possible. Thanks to [Prof. Dr. Mohammed Moshiul Hoque](https://www.researchgate.net/profile/Moshiul_Hoque) and [Dr. Iqbal H. Sarker](https://www.sites.google.com/site/iqbalsarkercse/) sir for their valuable guidance.
