@@ -72,13 +72,11 @@ We sincerely acknowledge the anonymous reviewers and pre-submission mentor for t
 ## Cite this work
 If you find this repository helpful in your work please cite the following
 ```
-@misc{das2021emotion,
-      title={Emotion Classification in a Resource Constrained Language Using Transformer-based Approach}, 
-      author={Avishek Das and Omar Sharif and Mohammed Moshiul Hoque and Iqbal H. Sarker},
-      year={2021},
-      eprint={2104.08613},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{das2021emotion,
+  title={Emotion Classification in a Resource Constrained Language Using Transformer-based Approach},
+  author={Das, Avishek and Sharif, Omar and Hoque, Mohammed Moshiul and Sarker, Iqbal H},
+  journal={arXiv preprint arXiv:2104.08613},
+  year={2021}
 }
 ```
 
