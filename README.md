@@ -5,6 +5,8 @@
 
 **Author:** Avishek Das, Omar Sharif, Mohammed Moshiul Hoque and Iqbal H. Sarker
 
+**Paper:** [Paper in ACL Anthology](https://aclanthology.org/2021.naacl-srw.19/)
+
 **Venue:** [NAACL Student Research Workshop (SRW)-2021](https://naacl2021-srw.github.io/)
 
 ## Abstract
