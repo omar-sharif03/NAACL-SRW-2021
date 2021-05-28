@@ -74,11 +74,20 @@ We sincerely acknowledge the anonymous reviewers and pre-submission mentor for t
 ## Cite this work
 If you find this repository helpful in your work please cite the following
 ```
-@article{das2021emotion,
-  title={Emotion Classification in a Resource Constrained Language Using Transformer-based Approach},
-  author={Das, Avishek and Sharif, Omar and Hoque, Mohammed Moshiul and Sarker, Iqbal H},
-  journal={arXiv preprint arXiv:2104.08613},
-  year={2021}
+@inproceedings{das-etal-2021-emotion,
+    title = "Emotion Classification in a Resource Constrained Language Using Transformer-based Approach",
+    author = "Das, Avishek  and
+      Sharif, Omar  and
+      Hoque, Mohammed Moshiul  and
+      Sarker, Iqbal H.",
+    booktitle = "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Student Research Workshop",
+    month = jun,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2021.naacl-srw.19",
+    pages = "150--158",
+    abstract = "Although research on emotion classification has significantly progressed in high-resource languages, it is still infancy for resource-constrained languages like Bengali. However, unavailability of necessary language processing tools and deficiency of benchmark corpora makes the emotion classification task in Bengali more challenging and complicated. This work proposes a transformer-based technique to classify the Bengali text into one of the six basic emotions: anger, fear, disgust, sadness, joy, and surprise. A Bengali emotion corpus consists of 6243 texts is developed for the classification task. Experimentation carried out using various machine learning (LR, RF, MNB, SVM), deep neural networks (CNN, BiLSTM, CNN+BiLSTM) and transformer (Bangla-BERT, m-BERT, XLM-R) based approaches. Experimental outcomes indicate that XLM-R outdoes all other techniques by achieving the highest weighted f{\_}1-score of 69.73{\%} on the test data.",
 }
 ```
 
